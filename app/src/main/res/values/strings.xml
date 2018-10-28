@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="call_police">Call the police</string>
+    <string name="make_a_call_to_police">I\'m calling the police !!!</string>
+    <string name="crime_data">Crime Data</string>
+    <string name="crime_title">Crime Title</string>
+    <string name="first_button_label">First</string>
+    <string name="last_button_label">Last</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="time_picker_title">Time of crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+    <string name="my_account">My account</string>
+    <string name="project">Project</string>
+    <string name="cs_fair">CS Fair</string>
+    <string name="title_activity_navi">NaviActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
